@@ -1,4 +1,4 @@
 PipelineJS
 ==========
 
-Plinth Framework
+Pub/Sub Implementation
