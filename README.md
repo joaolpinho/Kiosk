@@ -1,0 +1,4 @@
+PipelineJS
+==========
+
+Pub/Sub Implementation
